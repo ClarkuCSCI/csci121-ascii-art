@@ -11,4 +11,8 @@ const ART = [
    "filename": "imac.txt",
    "credit_text": "dan greuel",
    "credit_url": "https://www.asciiart.eu/computers/apple"},
+  {"title": "Llama",
+   "filename": "llama.txt",
+   "credit_text": "ejm",
+   "credit_url": "https://ascii.co.uk/art/llama"},
 ];
