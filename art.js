@@ -11,4 +11,8 @@ const ART = [
    "filename": "cactus.txt",
    "credit_text": "kra",
    "credit_url": "https://www.asciiart.eu/plants/cactus"},
+  {"title": "Cat",
+   "filename": "cathead.txt",
+   "credit_text": "Unknown",
+   "credit_url": "https://www.asciiart.eu/animals/cats"},
 ];
