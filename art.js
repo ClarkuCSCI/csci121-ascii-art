@@ -11,4 +11,4 @@ const ART = [
    "filename": "monkey-eating-banana.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/food-and-drinks/bananas"},
-  ];
+];
