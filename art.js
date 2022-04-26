@@ -51,5 +51,4 @@ const ART = [
    "filename": "captainAmerica.text",
    "credit_text": "unknown",
    "credit_url": "https://www.asciiart.eu/comics/captain-america"},
-  
 ];
