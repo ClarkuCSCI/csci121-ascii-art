@@ -7,4 +7,8 @@ const ART = [
    "filename": "earth.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
+   {"title": "popcan",
+   "filename": "popcan.txt",
+   "credit_text": "jgs",
+   "credit_url": "https://www.asciiart.eu/art-and-design/escher"},
 ];
