@@ -11,4 +11,12 @@ const ART = [
    "filename": "monkey-eating-banana.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/food-and-drinks/bananas"},
+  {"title": "Soccer",
+   "filename": "soccer.txt",
+   "credit_text": "unknown",
+   "credit_url": "https://www.asciiart.eu/sports-and-outdoors/soccer"},
+  {"title": "Tasmanian Devil",
+   "filename": "tasmanianDevil.txt",
+   "credit_text": "akg",
+   "credit_url": "https://www.asciiart.eu/animals/marsupials"},
 ];
