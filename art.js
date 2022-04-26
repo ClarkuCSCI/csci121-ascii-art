@@ -12,3 +12,4 @@ const ART = [
    "credit_text": "mrf",
    "credit_url": "https://www.asciiart.eu/animals/bears"},
 ];
+
