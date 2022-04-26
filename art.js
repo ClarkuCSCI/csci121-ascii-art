@@ -38,6 +38,5 @@ const ART = [
   {"title": "Rose",
    "filename": "rose.text",
    "credit_text": "myflix",
-   "credit_url": "https://www.asciiart.eu/plants/roses:},
-   
+   "credit_url": "https://www.asciiart.eu/plants/roses"},
 ];
