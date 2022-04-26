@@ -47,4 +47,9 @@ const ART = [
    "filename": "rose.text",
    "credit_text": "myflix",
    "credit_url": "https://www.asciiart.eu/plants/roses"},
+  {"title": "Captain America",
+   "filename": "captainAmerica.text",
+   "credit_text": "unknown",
+   "credit_url": "https://www.asciiart.eu/comics/captain-america"},
+  
 ];
