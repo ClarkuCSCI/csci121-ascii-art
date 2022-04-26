@@ -7,8 +7,12 @@ const ART = [
    "filename": "earth.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
-   {"title": "Soccer",
+  {"title": "Soccer",
    "filename": "soccer.txt",
    "credit_text": "unknown",
    "credit_url": "https://www.asciiart.eu/sports-and-outdoors/soccer"},
+  {"title": "Tasmanian Devil",
+   "filename": "tasmanianDevil.txt",
+   "credit_text": "akg",
+   "credit_url": "https://www.asciiart.eu/animals/marsupials"},
 ];
