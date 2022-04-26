@@ -7,9 +7,8 @@ const ART = [
    "filename": "earth.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
-    {"title": "Bear",
+  {"title": "Bear",
    "filename": "bear.txt",
    "credit_text": "mrf",
    "credit_url": "https://www.asciiart.eu/animals/bears"},
 ];
-
