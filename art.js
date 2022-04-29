@@ -1,8 +1,8 @@
 const ART = [
-  {"title": "Owl",
-   "filename": "owl.txt",
+  {"title": "zhimian",
+   "filename": "zhimian.txt",
    "credit_text": "Donovan Bake",
-   "credit_url": "https://www.asciiart.eu/animals/birds-land"},
+   "credit_url": "https://www.asciiart.eu/food-and-drinks/apples"},
   {"title": "Earth",
    "filename": "earth.txt",
    "credit_text": "jgs",
