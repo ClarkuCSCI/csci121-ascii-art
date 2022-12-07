@@ -11,4 +11,8 @@ const ART = [
    "filename": "car_art.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
+  {"title": "Train Depot",
+   "filename": "building_art.txt",
+   "credit_text": "lgbeard",
+   "credit_url": "https://www.asciiart.eu/buildings-and-places/buildings"},
 ];
