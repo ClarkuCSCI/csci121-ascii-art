@@ -11,4 +11,8 @@ const ART = [
    "filename": "car_art.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
+  {"title": "Feather",
+  "filename": "feather.txt",
+  "credit_text": "ejm",
+  "credit_url": "https://www.asciiart.eu/miscellaneous/feathers"},
 ];
