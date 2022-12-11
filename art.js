@@ -15,4 +15,8 @@ const ART = [
    "filename" : "deer.txt",
    "credit_text" : "",
    "credit_url": "https://www.asciiart.eu/animals/deer"},
+  {"title": "Grapes",
+   "filename" : "grapes.txt",
+   "credit_text" : "",
+   "credit_url": "https://www.asciiart.eu/food-and-drinks/other"}
 ];
