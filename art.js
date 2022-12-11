@@ -15,4 +15,8 @@ const ART = [
    "filename" : "deer.txt",
    "credit_text" : "",
    "credit_url": "https://www.asciiart.eu/animals/deer"},
+   {"title": "man-art",
+   "filename" : "man-art.txt",
+   "credit_text" : "Elissa Potier",
+   "credit_url": "https://www.asciiart.eu/people/men"},
 ];
