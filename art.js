@@ -15,4 +15,8 @@ const ART = [
    "filename" : "deer.txt",
    "credit_text" : "",
    "credit_url": "https://www.asciiart.eu/animals/deer"},
+  {"title": "Kool Aid",
+   "filename": "koolaid",
+   "credit_text": "Donovan Bake",
+   "credit_url": "https://www.asciiart.eu/logos/kool-aid"}
 ];
