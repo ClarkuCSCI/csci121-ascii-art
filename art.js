@@ -15,4 +15,8 @@ const ART = [
    "filename": "cathead.txt",
    "credit_text": "Unknown",
    "credit_url": "https://www.asciiart.eu/animals/cats"},
+  {"title": "Harambe",
+   "filename": "harambe.txt",
+   "credit_text": "jgs",
+   "credit_url": "https://www.asciiart.eu/animals/monkeys"},
 ];
