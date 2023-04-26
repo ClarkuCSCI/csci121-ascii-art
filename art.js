@@ -19,4 +19,8 @@ const ART = [
    "filename": "harambe.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/animals/monkeys"},
+  {"title": "Box",
+   "filename": "box.txt",
+   "credit_text": "Richard James",
+   "credit_url": "https://www.asciiart.eu/miscellaneous/boxes"},
 ];
