@@ -1,0 +1,47 @@
+PGGGBB#BBBBBBBBBBBBBBBBBB5YJ???JY55Y?7!~~~^^~~!!777!~~^^::::::..::^~!JPGGGGGGPPPPGGGGGGGGGGP5YJ7!!!~
+5PGBB#BBBGGGGGBBBBBBBBBBBG5YYYY55P55?7!~~~~!!!77??7!~^^^^:::::...::~!?YPPPGGGPP55PPGGGGGGBGP5J7!~~~~
+Y5GB#BBBGPPPPGGBBBBBBGGGGGGGGGGGGP5Y?77!!!7777777!~~~^^^^~^^:::::^^!?JY5PPGGGP5555PPGGGGBBP5YJ777!77
+JYPBBBBGP555PPGBBBGGPPPPPPGGBGGGP5Y?7!!!!7????7!!~^^^^^^^~~~^^^^^~!?JJY5PPGGGP5YY5PGBBGGGBP55YJJYYYY
+JYPBBBGGP5Y55PGBBGGPP5555PPGGGGGP5J?7!~~~!7?JJ?!~^^^^~~!~~~^^^^^~!7JJJY5PPGGGPYYY5PGBBGGGBP5555PGGPP
+Y5PGBBGP5YYY5PGGGGGPPP55PPGGGBGGGP5Y?7!!!!7?J?777?Y5PPPGPP5J7^:^^~7?JJY5PPGGG5YYYY5GBGGGGBP55PPGBGP5
+5PGGBGP5YYYY55PGBGGGGGPPGGGGBBBBGGP5Y?7777?JJ??YG###BBBBBBGGG5J!^^~7?JY5PPGGG5YYYY5PGGGGGBP55PPGG5JJ
+Y5PGBGP5YJJYY5GGBBBBGGPPGGGGBBGGGGPYYJ?JY555J??5GBBG###BB#BBGGP5J!!7??JY5PPGG5YJ???J55PPGGP555YYYJ??
+?YPGBGP5YJJYY5PGGGGGP5555PPGGGGPP55YYJ5GG5J7~^^~~!!7??JY5PGGB#&#PYY?77?JJY5PP5J??777JJY5GGP5YYJJJJ??
+?YPGGPP5YYYYY55PPPPP555YY55PPPPP55555BBPJ!^^^::::::::::::^^~~7JB&B5YJ??JJY55P5YJJ???JY5PGBGP55YYYY55
+Y5GGGP55YYYYY5555PPP555YY55555555555PB5!~^^^^:::::::....:::....:!G#Y?J55555555555555PPGGBBBBGGPPPGGG
+5PGGP55YJJJYY5555PPPPP555YYYYYYY5555GY~^^^^^^:::::::............ .JG775PP5555555PPPPPGGGGGGGGGGGGGGG
+5PGGP5YJJ???JJYYYYYYYYYYJJJJJ????JJPP7^^^^:::::::................ .7J~?JJJJJJJJJJJJJJYYYYYYYYYYYYYYY
+5PGPP5YJ?777777777??????7777!!!!!7?GY!~^^^^^^^^^::::..:::::........:J7~7777777777!77777??7?JJ????77?
+5PPPP5YJ?77!77!7!7777??7777!!!!!!!JBJ~~~7???JYYYJ7!~^^~!7JYJ?7~^....7P?!777777777777777???JJYJJJ????
+PPPP5YJ???77??????JJJJJJ??????????5#G?77??7777?J??!!~~~?J??77777~:::7GP?YYJJJJJJYJJYYY55YYYY55555555
+PPGP5YJ???JJYJ?777?YPPPP55555555Y7J##Y7!!7JJJJJ?77~!^^^77??J?777~:!755!J55P55PPPPPPPPGP5J?77?YPGGGGG
+PPGP5YJ??JJYJ7~^^~!?5GGPPPPPPPPP?!!7P?~^^^~~~~~~~~!^:.:~^^~~~^^::::!7^~~?5PPGGPPPPPGGGP?!~^^~7YGBBGG
+5PGP5YJ??JJYJ~^:::^!JPGPPPPPPPPPJ^^7Y?^^^^^^^^^~!!~^:..:^^::::.....!!:.^~5PGGGPPPPPPGG57~::::~?PBBGG
+Y5PP5YJ???JJ?~:...:~?Y55YYYY5555Y~^!JY~^^~~~!?JJ?~~^^:..~J?!~~^:..:7?~.:?Y55555YYY555PY!^:..:^7YPP55
+J5P55J?77??J7~:...:~7JYJJJJJYYYYJ7^^7P!~!!!?YY?7?YY?!!!7!?JYJ7!~^.~7::.~JJJYYYYJJJJYY5J!^:..:^!Y555Y
+Y5P5YJ??7??J7^:...:^7JYJJJJJYYYYJJ7!7PJ7!7JPP5YJYGGGGGGPJ??YYY!~^^!~..^?JJJYYYYJJJJYY5J~^:..:^!YPP5Y
+PPPP5Y?????J7^:...:^7JYYJJYY55P5YYJJJPPYY?YPPGBY?JJJJJ?JYPBGP57!!7?7!7YYYYY55555YYY555J!^:..:^75GGPP
+GGGP5YJ???JJ7^:...:^!JYYYYY55PPP55YYY5BBBP55?!77777?777!7?7?55555YY5P55YY55PPPP555555PY!^:..:^75BBGP
+GGPP5J????JJ7^:...:^!J5YYY555PPP555555G##BGGY!~!777777!~~~~?5GBGG55PP555555PPPP55555PPY!^:..:^75BBGG
+PPPP5YJ?????7^:...:^!?JJJJJJJYYYJJJJJY5B##BBG5?777?J?7!!~7J5PG#BPYYYYJJJJJY555YYYYYYY5J!^:..:^!YPGP5
+5PPP5YJ?7777!^:...:^~77777777???77777??J5###BGPY7!7??!~~7YYYPBBPJ?????777?????????????7~:...:^!?JJJJ
+PGGP5YJ??777!^:...:^~7777777777777777777!?PGB#BGY??YY??J5P5PP5?^!7777777777777777777777~:...:^~7??77
+GGGP5YJ?????7~^:::^~!7777777???????????7!!7?YGBGBGGBBGGGBGPY7~:.~~!???????????????????7~^::::^!?????
+GGGP5YJ??????7~~~~~7?????????????????7^Y7!777??J5PGGGGP5J?!~~~:.7J::?????????JJJJJJJ???7~^^^~!7?????
+PGGP5YJ???JJJJJ???JJJJYJYJJJJJJJJJJJ!:^P7!!7777??JYYYJJ?!~~^^^:.~5~ .~???JJJJJJJJJJJJJ???777?JJJJJJJ
+PGGP5YJJJJYYYYYYY5YYY555555YYYYYYYJ~::~JJ!!!!!777?????77!~~^^::^~?:.  :7JJJJJJYYYYJJJJJJYYYYY555YYY5
+5GGP5YJJ??????????????JJJJJJJ???7~^.::^!Y?!!~~!!!777777!~~~^^^~~7~..   .:~7?JJJJJYYJJJJYYY5555555555
+5GGP55YJ?77!!~~~~~~!!!!!!!!~^:::::..::^:7J7!!~~~!!!!!7!!~~~~~~!7~: .     ...:^~~!7777?????JJJJJYYYYY
+PBGPPP5YJ7!~~~~~~~~~~~~^^:..:::.^^.:::^.:!?!!!~~~!!!!!!~~~~!!!7^.. .     ...:.....:^^^~~!!!!!!7777??
+PGGGGPP5J?!~~^^::::::...^...^^..^:.::.^:^^~~~!!~^~~!!!~~~~~^^^:~J?:.    . ..::.. . ......:^~~!!!!777
+5PPPPPP5J?!~:......::..:^.::^::.^::::~?Y5P?^:^^^^^~~~~^~^^::::~5YJJ^        .:...:.  .:.  ...:^~~~~~
+YYYYYYYYJ!^:...:...::.:^^.::^:::^:^^7PYYJY5J7~:.::::::^^^:..::!J!77J!:..  . .....^:  .:...:.  ..:^^^
+YYJJJJ?~:.::...::...^.:^:.::^::.^^^~7J?777?7??!:...::::::...:^!!~~~77~~::....:...:^:..:..:..... ..::
+77777!^:::.^:::.^:..::.^^.::^::.^^:^^!~^^^!~~!77!~^^:::...:^~~^^:::~^::.:.. ......^::.:.^:...:.....:
+~~~~^^::^:.:^^:::^.::.:^^.:.^::.^^.::^^:::~^:^^!~^^^!~^!77J~^:^^:..^:........:....^:^:^:^::.::::.:..
+^^^^^:::^:.^^^^^.^::^.:^:...^:..:^.:.^^.:.^^.:.^^.::^~~!~~!::.^:...:....:....:....::^:^^:::^^:::..:.
+^^^^^::^::^:.^~~^:^^:.:^:...^:..:^...:^...:^::.^^:::.:.:.:~::.^:...:....:....:....^.::^^::^^^::...:.
+^^^~::^^:^~::.~!!^^~:::^:..:^.:.:^...:^.:.:^.:.^^:^:.^.:::~::.^:...^:...::...:....:.::^^:~^^~:::::::
+^^~^:^^~^~^^::~^~7!!::.^::.:^.:.:^...:^.:.:^::.:^:^:.^:.::~...^^...^:...::...^:...^:::^^~~^:~^:.:^^:
+^^~:^^~~~~^^^~^^^!7~:::^:::^^::::^::.:^::::~::::~:^:.^::::^::.^^...^:.:.^:.:.^:.::^:::^~7!^^~~::::^:
+^~^:^^!~~^^~!~:^^7?^:::^^::^!:::^~::::^::::~:::^~^^:.~::::^:::^^.:.^^.:.^^:::^^::^!^::^~7~^^!!^:^^^^
