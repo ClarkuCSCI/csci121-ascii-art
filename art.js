@@ -71,4 +71,8 @@ const ART = [
    "filename": "x-wing.txt",
    "credit_text": "Shanaka Dias",
    "credit_url": "https://www.asciiart.eu/movies/star-wars"},
+  {"title": "Felix the cat",
+   "filename": "Felixthecat.txt",
+   "credit_text": "unknown",
+   "credit_url": "https://www.asciiart.eu/cartoons/felix-the-cat"},
 ];
