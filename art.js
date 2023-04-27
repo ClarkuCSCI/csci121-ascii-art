@@ -2,7 +2,7 @@ const ART = [
   {"title": "pikachu",
    "filename": "pikachu.txt",
    "credit_text": "betterhalf",
-   "credit_url": "https://share.text-image.com/6a03d81d643f972c"}
+   "credit_url": "https://share.text-image.com/6a03d81d643f972c"},
   {"title": "Owl",
    "filename": "owl.txt",
    "credit_text": "Donovan Bake",
