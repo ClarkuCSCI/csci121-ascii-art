@@ -67,4 +67,8 @@ const ART = [
    "filename": "x-wing.txt",
    "credit_text": "Shanaka Dias",
    "credit_url": "https://www.asciiart.eu/movies/star-wars"},
+  {"title": "Peter Story",
+   "filename": "peterStory.txt",
+   "credit_text": "Peter Story Clark University",
+   "credit_url": "https://share.text-image.com/97d595850ddee4a4"},
 ];
