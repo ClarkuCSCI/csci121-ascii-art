@@ -11,4 +11,8 @@ const ART = [
    "filename": "keys.txt",
    "credit_text": "Hayley Jane Wakenshaw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+    {"title" "Coffee",
+   "filename": "coffee.txt",
+   "credit_text": "Elissa Potier",
+   "credit_url": "https://www.asciiart.eu/food-and-drinks/coffee-and-tea"},
 ];
