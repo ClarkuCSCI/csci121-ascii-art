@@ -15,4 +15,8 @@ const ART = [
    "filename": "keyboard.txt",
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
-];
+  {"title": "smoke",
+   "filename": "smoke-art"
+   "credit_txt": "Normand Veilleux",
+   "credit_nrl": "https://www.asciiart.eu/miscellaneous/cigarettes"},
+   ];
