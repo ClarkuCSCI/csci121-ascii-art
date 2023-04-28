@@ -17,6 +17,5 @@ const ART = [
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
   {"title": "Dragon",
    "filename": "dragon.txt",
-   "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/mythology/dragons"},
 ];
