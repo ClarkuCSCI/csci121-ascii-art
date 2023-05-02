@@ -10,8 +10,11 @@ const ART = [
   {"title":"Star",
     "filename":"star.txt",
    "credit_text":"hjw",
-   "credit_url":"https://www.asciiart.eu/space/stars"
-  },
+   "credit_url":"https://www.asciiart.eu/space/stars"},
+  {"title": "fish",
+   "filename": "fish-art.txt",
+   "credit_text": "Max Strandberg",
+   "credit_url": "https://www.asciiart.eu/animals/fish"},
   {"title": "Frogs",
    "filename": "frogs.txt",
    "credit_text": "Veronica Karlsson",
