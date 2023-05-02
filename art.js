@@ -80,4 +80,6 @@ const ART = [
    "filename": "spaceship.txt",
    "credit_text": "SSt",
    "credit_url": "https://www.asciiart.eu/space/spaceships"},
+  {"title" : "beachart","filname" : "art.txt","credit_text":"Laura Brown","credit_url":"https://www.asciiart.eu/nature/beach"}
+  
 ];
