@@ -19,4 +19,4 @@ const ART = [
    "filename": "smoke-art",
    "credit_txt": "Normand Veilleux",
    "credit_nrl": "https://www.asciiart.eu/miscellaneous/cigarettes"},
-   ];
+   -];
