@@ -16,7 +16,7 @@ const ART = [
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
   {"title": "smoke",
-   "filename": "smoke-art"
+   "filename": "smoke-art",
    "credit_txt": "Normand Veilleux",
    "credit_nrl": "https://www.asciiart.eu/miscellaneous/cigarettes"},
    ];
